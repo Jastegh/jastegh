@@ -9,7 +9,6 @@
 - 🌐 Check out my portfolio: **[MyPortfolio.com](https://jastegh.netlify.app/)**
 
 
-<div>
 ## 🚀 **My Tech Stack**
 
 
@@ -17,7 +16,6 @@
 | --- | --- | --- | --- |
 | ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![Python](https://skillicons.dev/icons?i=python) ![C++](https://skillicons.dev/icons?i=cpp) ![C](https://skillicons.dev/icons?i=c) ![Django](https://skillicons.dev/icons?i=django) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) | ![AWS](https://skillicons.dev/icons?i=aws) ![Heroku](https://skillicons.dev/icons?i=heroku) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) 
 
-</div>
 
 
 ## 📊 **GitHub Stats**
