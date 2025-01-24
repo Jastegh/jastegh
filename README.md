@@ -8,7 +8,7 @@
 - 💼 Open to collaborations and freelance opportunities!
 - 🌐 Check out my portfolio: **[MyPortfolio.com](https://jastegh.netlify.app/)**
 
---
+---
 
 ## 🚀 **My Tech Stack**
 
