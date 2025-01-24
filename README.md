@@ -12,32 +12,10 @@
 
 ## 🚀 **My Tech Stack**
 
-### Frontend
-![HTML5](https://skillicons.dev/icons?i=html) 
-![CSS3](https://skillicons.dev/icons?i=css) 
-![JavaScript](https://skillicons.dev/icons?i=javascript) 
-![TypeScript](https://skillicons.dev/icons?i=typescript) 
-![React](https://skillicons.dev/icons?i=react) 
-![Next.js](https://skillicons.dev/icons?i=nextjs) 
 
-### Backend
-![Node.js](https://skillicons.dev/icons?i=nodejs) 
-![Express](https://skillicons.dev/icons?i=express) 
-![MongoDB](https://skillicons.dev/icons?i=mongodb) 
-![MySQL](https://skillicons.dev/icons?i=mysql) 
-![Django](https://skillicons.dev/icons?i=django) 
-
-### Cloud
-![AWS](https://skillicons.dev/icons?i=aws) 
-![Heroku](https://skillicons.dev/icons?i=heroku) 
-![Vercel](https://skillicons.dev/icons?i=vercel) 
-![Firebase](https://skillicons.dev/icons?i=firebase) 
-
-### Tools
-![Git](https://skillicons.dev/icons?i=git) 
-![VSCode](https://skillicons.dev/icons?i=vscode) 
-![Figma](https://skillicons.dev/icons?i=figma) 
-![Photoshop](https://skillicons.dev/icons?i=photoshop)
+| Frontend | Backend | Cloud | Tools |
+| --- | --- | --- | --- |
+| ![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Django](https://skillicons.dev/icons?i=django) | ![AWS](https://skillicons.dev/icons?i=aws) ![Heroku](https://skillicons.dev/icons?i=heroku) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Firebase](https://skillicons.dev/icons?i=firebase) | ![Git](https://skillicons.dev/icons?i=git) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) ![Photoshop](https://skillicons.dev/icons?i=photoshop) |
 
 
 ---
