@@ -12,11 +12,32 @@
 
 ## 🚀 **My Tech Stack**
 
-## 🚀 My Skill Set
+### Frontend
+![HTML5](https://skillicons.dev/icons?i=html) 
+![CSS3](https://skillicons.dev/icons?i=css) 
+![JavaScript](https://skillicons.dev/icons?i=javascript) 
+![TypeScript](https://skillicons.dev/icons?i=typescript) 
+![React](https://skillicons.dev/icons?i=react) 
+![Next.js](https://skillicons.dev/icons?i=nextjs) 
 
-| Frontend | Backend | Cloud | Tools |
-| --- | --- | --- | --- |
-| <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" /> | <img src="https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" /> | <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white" /> | <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/-VSCode-007ACC?logo=visualstudiocode&logoColor=white" /> |
+### Backend
+![Node.js](https://skillicons.dev/icons?i=nodejs) 
+![Express](https://skillicons.dev/icons?i=express) 
+![MongoDB](https://skillicons.dev/icons?i=mongodb) 
+![MySQL](https://skillicons.dev/icons?i=mysql) 
+![Django](https://skillicons.dev/icons?i=django) 
+
+### Cloud
+![AWS](https://skillicons.dev/icons?i=aws) 
+![Heroku](https://skillicons.dev/icons?i=heroku) 
+![Vercel](https://skillicons.dev/icons?i=vercel) 
+![Firebase](https://skillicons.dev/icons?i=firebase) 
+
+### Tools
+![Git](https://skillicons.dev/icons?i=git) 
+![VSCode](https://skillicons.dev/icons?i=vscode) 
+![Figma](https://skillicons.dev/icons?i=figma) 
+![Photoshop](https://skillicons.dev/icons?i=photoshop)
 
 
 ---
