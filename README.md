@@ -1,6 +1,6 @@
 
 
-# Hi there 👋, I'm Jastegh!
+# <div align="center">Hi there 👋, I'm Jastegh! </div>
 
 🎯 **Full Stack Developer | Problem Solver | Tech Enthusiast**
 
