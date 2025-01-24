@@ -2,7 +2,7 @@
 
 # <div align="center">Hi there 👋, I'm Jastegh! </div>
 
-🎯 **Full Stack Developer | Problem Solver | Tech Enthusiast**
+🎯 **Full Stack Developer**
 
 - 🌱 Currently learning **TypeScript and NEXTjs**
 - 💼 Open to collaborations and freelance opportunities!
